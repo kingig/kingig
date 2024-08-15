@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @kingig
-- 👀 I’m interested in solving problems...
-- 🌱 I’m currently learning CSE and would love to apply what I learn...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Aadrit Roy, a final-year Computer Science Engineering student specializing in Blockchain Technology.
+🛠️ Skills
+Frontend Development: HTML, CSS, JavaScript, React.js
+Blockchain Technology
+💼 Projects
+Cryptocurrency Price Tracker: Built a responsive web application using JavaScript and React.js to track real-time cryptocurrency prices.
+🌱 Always eager to learn and explore new technologies.
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 kingig/kingig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
